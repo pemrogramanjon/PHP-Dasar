@@ -1,0 +1,10 @@
+siang pak,, saya tertarik mencoba codeigneter di channel pemrogramanunpas, tapi macet di pertemuan 2
+saat memanggil localhost/wpulogin/ berhasil pak,, tapi saat masuk ke http://localhost/wpulogin/auth/registration,, 
+Thr url not found error
+pak sandi,, gimana cara atasi nya, pak... plz. biar lanjut   ke pertemuan 3 -14,  dan 
+rencana mau buat project untuk kelola data siswa/guru di sebuah sekolah.
+saya pake webserver 'Appserv dan menggunakan vsc mengelola kodeingeter 3.1.11 dan sb-admin-2,,
+memang ? saya saat buat file .htaccess ada warning file dengan nama .htaccess sudah ada.
+tapi isi nya beda tidak sesuai dengan bentuk dari sb- admin-2
+menyelam sambil minum air buat sedikit keluhan saat mencoba 'channel bekerja dengan github forking'
+thanks a lot for dedicated with the educations by channel youtube nice job sir be allways exist on.
